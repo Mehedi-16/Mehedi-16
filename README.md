@@ -1,5 +1,6 @@
 <h1 align="center"> Mehedi Hasan Mamun</h1>
-<img align="center"alt="coding" width="600" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
+
+<p align="center"> <img class="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/> </p>
 
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
