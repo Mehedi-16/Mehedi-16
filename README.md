@@ -1,6 +1,7 @@
 <h1 align="center"> Mehedi Hasan Mamun</h1>
 
-<p align="center"> <img class="center" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif"/> </p>
+![linkdin cover](https://github.com/Mehedi-16/Mehedi-16/assets/127036046/58ea3ae9-f897-4c09-8d8a-892c7415dd34)
+
 
 <h3 align="center">A passionate developer from Bangladesh</h3>
 
