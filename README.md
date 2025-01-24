@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-16" alt="mehedi-16" /></a> </p>
 
-- 🔭 I’m currently working on **Food delivery System**
+- 🔭 I’m currently working on **Web Developing Project**
 
-- 🌱 I’m currently learning **Data structures and algorithms (DSA)**
+- 🌱 I’m currently learning **DataBase and HTML CSS JS**
 
 - 📫 How to reach me **mehedimamun604@gmail.com**
 
