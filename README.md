@@ -4,7 +4,7 @@
   <img src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" width="500" height="300" />
 </div>
 
-<h3 align="center">A Passionate Developer from Bangladesh</h3>
+<h3 align="center">💻 A Passionate Developer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehedi-16&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-16" />
@@ -81,7 +81,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-16&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
+<div style="display: flex; justify-content: center; gap: 30px;">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi-16&theme=github" alt="Repos per Language"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi-16&theme=github" alt="Most Commit Language"/>
+  </p>
+</div>
+
 ---
 
 <h3 align="center">🔥 "Code, Learn, Innovate & Inspire" 🚀</h3>
-
