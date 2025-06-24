@@ -16,12 +16,40 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Web Developing Projects & Problem Solving**  
-- 🌱 I’m currently learning **Database, JavaScript, and Advanced Web Technologies**  
-- 💡 Exploring **Machine Learning & Competitive Programming**  
-- 💬 Ask me about **C++, Python, and Web Development**  
-- 📫 Reach me at **mehedimamun604@gmail.com**  
-- ⚡ Fun Fact: **I love coding at midnight and debugging till dawn!**  
+---
+
+### 🚀 Current Focus
+
+- 🔭 Currently working on:
+  - **PharmaIntel**: A robust pharmaceutical management system (ASP.NET Core + MySQL)
+  - **Smart Kurigram City**: Web platform for city services (PHP + MySQL)
+  - **PSTU-CSE-19 Academic Hub**: Full academic archive from 1st to 8th semester
+- 🌱 Learning:
+  - **Advanced Web Technologies**, **Database Optimization**, and **System Design**
+  - Improving in **JavaScript**, **React**, and **Competitive Programming**
+- 💬 Ask me about:  
+  `C++`, `Python`, `Web Dev`, `ASP.NET`, `MySQL`
+- 📫 Reach me: **mehedimamun604@gmail.com**
+- ⚡ Fun Fact: **I love coding at midnight and debugging till dawn!**
+
+---
+
+### 🌟 Notable Projects
+
+- **[PharmaIntel](https://github.com/Mehedi-16/PharmaIntel-Pharmaceutical-Management-System)**  
+  Role-based pharma management with real-time stock, sales, analytics — built in ASP.NET Core.
+
+- **[PSTU-CSE-19-Academic](https://github.com/Mehedi-16/PSTU-CSE-19-Academic)**  
+  Complete academic material hub for all 8 semesters of CSE at PSTU (Notes, Books, Assignments, etc).
+
+- **[Portfolio Website](https://github.com/Mehedi-16/Portfolio-Mehedi-Hasan-Mamun)**  
+  Showcases my dev journey, projects, and background — built in HTML/CSS.
+
+- **[DLD Simulations](https://github.com/Mehedi-16/DLD-Simulation)**  
+  Digital Logic Design circuit simulations with interactive outputs.
+
+- **[User Auth System](https://github.com/Mehedi-16/PHP-User-Authentication-System-with-Registration-Login-Dashboard-and-Forgot-Password-Features)**  
+  PHP-based login system with full CRUD + password recovery.
 
 ---
 
