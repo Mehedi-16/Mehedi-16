@@ -1,10 +1,15 @@
-
-<h1 align="center">Hey there 👋, <br>  Mehedi Hasan Mamun </h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/091e276e-b584-49e4-beec-49564795e349" width="100%" alt="Coding Vibes" />
+<p>
+  <img src="https://github.com/user-attachments/assets/a6efc59b-2da9-4825-bcc6-07f3178d104d" 
+       alt="Hello Panda" 
+       width="150" 
+       style="float: left; margin-right: 15px; margin-top: 10px;" />
 </p>
 
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/091e276e-b584-49e4-beec-49564795e349" alt="Coding Vibes" width="100%">
+</p>
 
 
 ---
