@@ -16,23 +16,35 @@
   </a>
 </p>
 
+নিশ্চয়ই! তুমি এখন Flutter ও Dart শিখছো, তাই তোমার **Current Focus** সেকশনটা আরও আধুনিক ও বাস্তবসম্মতভাবে নিচের মতো করে আপডেট করা যায়:
+
 ---
 
 ### 🚀 Current Focus
 
-- 🔭 Currently working on:
-  - **PharmaIntel**: A robust pharmaceutical management system (ASP.NET Core + MySQL)
-  - **Smart Kurigram City**: Web platform for city services (PHP + MySQL)
-  - **PSTU-CSE-19 Academic Hub**: Full academic archive from 1st to 8th semester
-- 🌱 Learning:
-  - **Advanced Web Technologies**, **Database Optimization**, and **System Design**
-  - Improving in **JavaScript**, **React**, and **Competitive Programming**
-- 💬 Ask me about:  
-  `C++`, `Python`, `Web Dev`, `ASP.NET`, `MySQL`
-- 📫 Reach me: **mehedimamun604@gmail.com**
-- ⚡ Fun Fact: **I love coding at midnight and debugging till dawn!**
+* 🔭 Currently working on:
+  
+  * **Flutter Projects**: Cross-platform mobile apps with Dart & Firebase
+  * **PharmaIntel**: A robust pharmaceutical management system (ASP.NET Core + MySQL)
+  * **Smart Kurigram City**: Web platform for city services (PHP + MySQL)
+  * **PSTU-CSE-19 Academic Hub**: Full academic archive from 1st to 8th semester
+
+
+* 🌱 Currently Learning:
+
+  * **Flutter & Dart**: UI building, state management, and Firebase integration
+  * **Advanced Web Technologies**, **Database Optimization**, and **System Design**
+  * Enhancing skills in **JavaScript**, **React**, and **Competitive Programming**
+
+* 💬 Ask me about:
+  `C++`, `Python`, `Web Dev`, `Flutter`, `ASP.NET`, `MySQL`
+
+* 📫 Reach me: **[mehedimamun604@gmail.com](mailto:mehedimamun604@gmail.com)**
+
+* ⚡ Fun Fact: **I love coding at midnight and debugging till dawn!**
 
 ---
+
 
 ### 🌟 Notable Projects
 
