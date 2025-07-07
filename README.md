@@ -23,20 +23,26 @@
 </p>
 
 ---
-
-<h3 align="center">🌐 Connect with Me</h3>
+<h2 align="center">📬 Connect with Me</h2>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/mehedi16](https://www.linkedin.com/in/mehedi-mamun/)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mehedi-mamun/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
   </a>
+  
+  <a href="https://www.facebook.com/mehed1HasanMamun/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  </a>
+  
   <a href="mailto:mehedimamun604@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email">
   </a>
+  
   <a href="https://mehedi-16.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=githubpages&style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
 </p>
+
 
 ---
 
