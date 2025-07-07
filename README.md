@@ -10,12 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=mehedi-16&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-16" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehedi-16&margin-w=5&theme=darkhub" alt="mehedi-16" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Current Focus
@@ -96,7 +90,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mehedi-16&margin-w=5&theme=darkhub" alt="mehedi-16" />
+  </a>
+</p>
 ---
 
 <h3 align="center">📊 My GitHub Stats:</h3>
