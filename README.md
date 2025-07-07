@@ -27,10 +27,10 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mehedi16" target="_blank" rel="noopener noreferrer">
+  <a href="[https://linkedin.com/in/mehedi16](https://www.linkedin.com/in/mehedi-mamun/)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:mehedihasan.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mehedimamun604@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email" />
   </a>
   <a href="https://mehedi-16.github.io" target="_blank" rel="noopener noreferrer">
