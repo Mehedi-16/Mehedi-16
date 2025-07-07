@@ -14,6 +14,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehedi-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+
+---
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -22,8 +28,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-16&layout=compact&theme=radical&langs_count=6" width="32%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi-16&theme=github_dark" width="96%" alt="GitHub Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mehedi-16&theme=monokai&column=7" alt="GitHub Trophy" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=mehedi-16&theme=github" width="96%" alt="GitHub Contribution Graph" />
+</p>
+
+
 ---
-<h2 align="center">📬 Connect with Me</h2>
+<h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehedi-mamun/" target="_blank" rel="noopener noreferrer">
@@ -41,14 +60,6 @@
   <a href="https://mehedi-16.github.io" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=githubpages&logoColor=white&style=for-the-badge" alt="Portfolio">
   </a>
-</p>
-
-
----
-
-<h3 align="center">💡 Quote of the Day</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote of the Day" />
 </p>
 
 ---
